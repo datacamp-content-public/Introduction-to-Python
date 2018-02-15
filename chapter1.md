@@ -37,7 +37,7 @@ xp:
 key: 90c7467fe3
 ```
 
-
+Write a function to compute the square of a given integer
 
 `@instructions`
 
@@ -47,7 +47,11 @@ key: 90c7467fe3
 
 
 
-
+`@solution`
+```{}
+def sqr(n):
+    return n * n
+```
 
 
 
