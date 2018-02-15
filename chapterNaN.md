@@ -1,8 +1,7 @@
 ---
-title: Session 1
+title: Basic Operations
 description: >-
-  In this session we will explore some interesting programs that manipulate strings
-
+  Insert the chapter description here.
 
 
 

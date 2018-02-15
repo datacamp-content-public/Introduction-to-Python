@@ -1,29 +1,7 @@
 ---
-title: Test
+title: Basic Operations
 description: >-
-  Test
-
-
----
-## Sample exercise
-
-```yaml
-type: NormalExercise
-lang: python
-xp: 100
-skills: 2
-key: 57a8b7428a
-```
-
-
-
-
-
-
-
-
-
-
+  In this section we will work on some basic Python exercises
 
 
 ---
@@ -58,14 +36,12 @@ def sqr(n):
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: 7b5d5886e5
 ```
 
 Write a function to reverse a string
-
-`@instructions`
 
 
 `@hint`
@@ -73,12 +49,12 @@ Use the string indexing capabilities of Python
 
 
 `@sample_code`
-```{}
+```{undefined}
 def reverse_string(s):
     pass
 ```
 `@solution`
-```{}
+```{undefined}
 def reverse_string(s):
     return s[::-1]
 ```
