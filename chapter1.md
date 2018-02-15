@@ -1,7 +1,7 @@
 ---
 title: Basic Operations
 description: >-
-  In this section we will work on some basic Python exercises
+  
 
 
 ---
