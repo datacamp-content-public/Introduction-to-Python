@@ -32,25 +32,55 @@ key: 57a8b7428a
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: 90c7467fe3
 ```
 
 Write a function to compute the square of a given integer
 
-`@instructions`
-
-
-`@hint`
 
 
 
 
 `@solution`
-```{}
+```{undefined}
 def sqr(n):
     return n * n
+```
+
+
+
+
+---
+## Reverse a string
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 7b5d5886e5
+```
+
+Write a function to reverse a string
+
+`@instructions`
+
+
+`@hint`
+Use the string indexing capabilities of Python
+
+
+`@sample_code`
+```{}
+def reverse_string(s):
+    pass
+```
+`@solution`
+```{}
+def reverse_string(s):
+    return s[::-1]
 ```
 
 
