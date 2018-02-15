@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -14,26 +16,38 @@ key: 57a8b7428a
 ```
 
 
+
+
+
+
+
+
+
+
+
+
+---
+## Squaring numbers
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 90c7467fe3
+```
+
+
+
 `@instructions`
+
 
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
